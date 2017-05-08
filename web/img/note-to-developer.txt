@@ -1,0 +1,2 @@
+Note to developer:
+- URL landing page: https://www.pizzahut.co.id/menu/tea-time
